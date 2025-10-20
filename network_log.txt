@@ -1,0 +1,10 @@
+----------------------------------------
+Network check started at: 2025-10-20 06:47:46
+🌐 Internet connection is active.
+
+✅ google.com is reachable.
+✅ github.com is reachable.
+❌ amazon.com is NOT reachable.
+✅ facebook.com is reachable.
+Network check completed at: 2025-10-20 06:48:04
+----------------------------------------
